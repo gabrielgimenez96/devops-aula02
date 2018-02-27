@@ -1,4 +1,5 @@
 # devops-aula02
 Megan Fox
-Tom Cruise
+Chris Brown
 Amanda Seyfried
+Eminem
